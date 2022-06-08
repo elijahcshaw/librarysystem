@@ -1,7 +1,7 @@
 ------------------------------------------------------------------------------
 IMPORTANT - DO NOT COPY
 ------------------------------------------------------------------------------
-If you have found this project and it's similar to an in-class assignment you
+If you have found this project and it's similar to an class assignment you
 have been given - do not copy it. This assignment was a group-based design and
 partner-based implementation, meaning the spec was relatively vague in what 
 the requirements were, and many of the coding decisions made here were choices
@@ -11,7 +11,9 @@ appropriate for whatever assignment you may have been given.
 
 This project has been uploaded for resume purposes without a class, professor,
 or assignment name. If a student finds and copies this for their own personal
-assignment, the partners for this project take no responsibility.
+assignment, the partners for this project take no responsibility for their
+academic misconduct.
+
 
 ------------------------------------------------------------------------------
 COMPILING & RUNNING
@@ -29,7 +31,7 @@ change the data read by the program, modification should be made to the
 
 4. Other more advanced changes can be implemented through code editing. Adding
 new items simply means you need to create a new class inheriting from Item (or
-the applicable child of Item, like Book), and inserting it into ItemFactory's
+the applicable child of Item, like Book), and insert it into ItemFactory's
 constructor as has been done for the three types of books. A similar method
 allows you to add new types of transactions, although that may require more
 involved editing of the code depending on the transaction to be added.
